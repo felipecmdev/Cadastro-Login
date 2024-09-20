@@ -9,12 +9,12 @@ XAMPP: Ambiente de desenvolvimento local.</br>
 🚀 Funcionalidades </br>
 🔐 Cadastro de Usuário </br>
 Validação de senha (mínimo de 8 caracteres). </br>
-Verificação de email duplicado. </br>
+Verificação de nome duplicado. </br>
 Bloqueio de cadastro caso algum campo esteja vazio. </br>
 Armazenamento seguro de senhas utilizando hash. </br>
 Proteção contra SQL injection. </br>
 🔓 Login de Usuário </br>
-Verificação de email e senha para login.
+Verificação de usuário e senha para login.
 Caso os dados sejam corretos, o usuário é redirecionado para uma página de boas-vindas personalizada: </br>
 Bem-vindo, [nome do usuário]! </br>
 Se o usuário não existir ou a senha for inválida, uma mensagem de erro será exibida. </br>
